@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@yarnpkg/lockfile": "^1.1.0",
+    "semver": "^7.3.8",
+  },
+  "scripts": {
+    "check-importmap-yarn-consistency": "node ./check-importmap-yarn-consistency.mjs"
+  }
+}
